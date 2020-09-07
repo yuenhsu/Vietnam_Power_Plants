@@ -4,7 +4,7 @@
 # Project
 ## Contributor
 * Yu En Hsu, Master of Public Administration Candidate at Maxwell School at Syracuse University - *Author and Researcher* - [Portfolio](https://yuenhsu.website/)
-* Linh Nguyen Phan Bao, Master of Public Administration Candidate at Maxwell School at Syracuse University - *Author and Researcher* - [Github]()
+* Linh Nguyen Phan Bao, Master of Public Administration Candidate at Maxwell School at Syracuse University - *Author and Researcher* - [Github](https://github.com/lnguyenp)
 * Pete Wilcoxen, Professor, Public Administration and International Affairs at Maxwell School at Syracuse University - *Instructor and Advisor* - [Portfolio](https://wilcoxen.maxwell.insightworks.com/pages/44.html)
 
 ## Purpose
