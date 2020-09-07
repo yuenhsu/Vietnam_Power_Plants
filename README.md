@@ -16,7 +16,7 @@ The repository is created for my research project that examines the current elec
 * [Vietnam PDP Plan](https://drive.google.com/file/d/1nGuxqdS9x0xMEjo0YRlC8sMHg7DhSeTa/view?usp=sharing): PDP 7 outlines a master plan for power source development. That is, a list of power plants to be constructed between 2016 to 2030. This list allows us to verify some of the information in the previous two sources and builds up a road map for Vietnam power sector up to 2030. In this repository, we refer data from this database as **PDP**.
 
 # Processes
-TL;DR: Final product is [Vietnam_Power_Plants.csv](https://github.com/yuenhsu/Vietnam_Power_Plants/blob/master/Vietnam_Power_Plants.csv), 
+TL;DR: Final product is [Vietnam_Power_Plants.csv](https://github.com/yuenhsu/Vietnam_Power_Plants/blob/master/Vietnam_Power_Plants.csv), which includes a list of existing power plants and planned power plants up to 2030 with capacity, fuel source, coordinates, and commissioning year. Have fun!
 
 1. Data Collection
     1. Pull data from WRI and [clean](https://github.com/yuenhsu/Vietnam_Power_Plants/blob/master/1_data_collection.py) the content. As WRI itself consists of multiple sources, we resolve duplicates in this step. The output is available in [raw_wri.csv](https://github.com/yuenhsu/Vietnam_Power_Plants/tree/master/data) file.
