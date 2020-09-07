@@ -1,0 +1,126 @@
+std_name,std_fuel,capacity_mw
+A Luoi,Hydro,170
+A Vuong,Hydro,210
+An Khanh,Coal,120
+An Khe,Hydro,160
+Ba Thuoc 1,Hydro,60
+Ba Thuoc 2,Hydro,80
+Bac Binh,Hydro,34
+Bac Ha,Hydro,90
+Bac Me,Hydro,45.5
+Ban Chat,Hydro,220
+Ban Ve,Hydro,320
+Binh Dien,Hydro,44
+Buon Kuop,Hydro,280
+BuonTua Srah,Hydro,86
+Ca Mau 1,Gas,750
+Ca Mau 2,Gas,750
+Cam Pha,Coal,670
+Can Don,Hydro,78
+Cao Ngan,Coal,115
+Chi Khe,Hydro,41
+Chiem Hoa,Hydro,48
+Cua Dat,Hydro,97
+Da Dang 2,Hydro,34
+Da Mi,Hydro,175
+Da Nhim,Hydro,160
+Da Nhim Extension,Hydro,45
+Dai Ninh,Hydro,300
+Dak Mi 3,Hydro,63
+Dak Mi 4,Hydro,208
+Dakdrinh,Hydro,125
+Dakr'tih,Hydro,144
+Dam'Bri,Hydro,75
+Dong Nai 2,Hydro,70
+Dong Nai 3,Hydro,180
+Dong Nai 4,Hydro,340
+Dong Nai 5,Hydro,150
+Duyen Hai 1,Coal,1245
+Duyen Hai 3,Coal,1245
+Duyen Hai 3 Extension,Coal,688
+Formosa Dong Nai,Coal,450
+Formosa Ha Tinh,Coal,676
+Hai Phong,Coal,1200
+Ham Thuan,Hydro,300
+Hoa Binh,Hydro,1920
+Hoi Xuan,Hydro,102
+Hua Na,Hydro,180
+Huoi Quang,Hydro,520
+Huong Dien,Hydro,81
+Huong Son,Hydro,33
+Ialy,Hydro,720
+Kanak,Hydro,13
+Khe Bo,Hydro,100
+Krong H'nang,Hydro,64
+Lai Chau,Hydro,1200
+Mao Khe,Coal,440
+Mong Duong,Coal,1080
+Mong Duong 2,Coal,1200
+Muong Hum,Hydro,32
+Na Duong,Coal,111.2
+Nam Chien 1,Hydro,200
+Nam Chien 2,Hydro,32
+Nam Muc,Hydro,44
+Nam Na 2,Hydro,66
+Nam Na 3,Hydro,84
+Nam Phang,Hydro,36
+Nam Toong,Hydro,34
+Nghi Son 1,Coal,600
+Ngoi Phat,Hydro,72
+Nho Que 1,Hydro,32
+Nho Que 2,Hydro,48
+Nho Que 3,Hydro,110
+Nhon Trach 1,Gas,450
+Nhon Trach 2,Gas,750
+Pha Lai 1,Coal,440
+Pha Lai 2,Coal,600
+Phu My 1,Gas,1059
+Phu My 2.1,Gas,860
+Phu My 2.2,Gas,720
+Phu My 3,Gas,720
+Phu My 4,Gas,440
+Pleikrong,Hydro,100
+Quang Ninh,Coal,1200
+Quang Tri,Hydro,64
+Se San 3,Hydro,260
+Se San 3A,Hydro,108
+Se San 4,Hydro,360
+Se San 4A,Hydro,63
+Son Dong,Coal,220
+Son La,Hydro,2400
+Song Ba Ha,Hydro,220
+Song Bac,Hydro,42
+Song Bung 2,Hydro,100
+Song Bung 4,Hydro,156
+Song Bung 4A,Hydro,49
+Song Bung 5,Hydro,57
+Song Con 2,Hydro,63
+Song Giang 2,Hydro,37
+Song Hinh,Hydro,70
+Song Tranh 2,Hydro,190
+Song Tranh 3,Hydro,62
+Srepok 3,Hydro,220
+Srepok 4,Hydro,80
+Srepok 4A,Hydro,64
+Srok Phu Mieng,Hydro,51
+Su Pan 2,Hydro,34
+Ta Thang,Hydro,60
+Thac Ba,Hydro,120
+Thac Mo,Hydro,150
+Thac Mo Extension,Hydro,75
+Thai An,Hydro,82
+Thai Binh 1,Coal,600
+Thang Long,Coal,620
+Thuan Hoa,Hydro,42
+Thuong KonTum,Hydro,220
+Tri An,Hydro,400
+Trung Son,Hydro,260
+Tuyen Quang,Hydro,342
+Uong Bi Extension,Coal,630
+Van Chan,Hydro,57
+Vinh Son,Hydro,66
+Vinh Tan 1,Coal,1200
+Vinh Tan 2,Coal,1245.6
+Vinh Tan 4,Coal,1200
+Vinh Tan 4 Extension,Coal,600
+Vung Ang 1,Coal,1200

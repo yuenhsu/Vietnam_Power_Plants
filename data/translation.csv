@@ -1,0 +1,344 @@
+std_name,name,type,note
+A Lin,A Lin,Plant,
+A Luoi,A Lưới,Plant,
+A Vuong,A Vương,Plant,
+An Khanh,An Khánh,Plant,
+An Khe,An Khê,Plant,
+Ba Thuoc 1,Bá Thước 1,Plant,
+Ba Thuoc 2,Bá Thước 2,Plant,
+Bac Binh,Bắc Bình,Plant,
+Bac Ha,Bắc Hà,Plant,
+Bac Lieu 1,Bạc Liêu I #1 (*),Plant,Unit 1
+Bac Lieu 1,Bạc Liêu I #2 (*),Plant,Unit 2
+Bac Me,Bắc Mê,Plant,
+Ban Chat,Bản Chát,Plant,
+Ban Mong (Song Hieu),Băn Mống (Sống Hiều),Plant,
+Ban Ve,Bản Vẽ,Plant,
+Bao Lam 3,Bảo Lâm 3,Plant,
+Binh Dien,Bình Điền,Plant,
+Buon Kuop,Buôn Kuôp,Plant,
+BuonTua Srah,BuônTua Srah,Plant,
+Ca Mau 1,Cà Mau 1,Plant,
+Ca Mau 2,Cà Mau 2,Plant,
+Cam Pha,Cẩm Phả,Plant,
+Cam Pha 3,Cẩm Phả 3,Plant,
+Cam Pha 3,"Cẩm Phả III #1,2",Plant,Unit 1 & 2
+Can Don,Cần Đơn,Plant,
+Cao Ngan,Cao Ngạn,Plant,
+Chi Khe,Chi Khê,Plant,
+Chiem Hoa,Chiêm Hóa,Plant,
+Cong Thanh,Công Thanh,Plant,
+Phu Tho,Phú Thọ,Plant,
+Cua Dat,Cửa Đạt,Plant,
+"Nam Cum 1, 4, 5","Nậm Củm 1,4,5",Plant,
+"Nam Cum 2, 3, 6","Nậm Củm 2,3,6",Plant,
+Da Dang 2,Đa Dâng 2,Plant,
+Da Mi,Đa Mi,Plant,
+Da Nhim,Đa Nhim,Plant,
+Da Nhim Extension,Đa Nhim mở rộng,Plant,
+Da Nhim Extension,Đa Nhim MR,Plant,
+Dai Ninh,Đại Ninh,Plant,
+Dak Mi 1,Đăk Mi 1,Plant,
+Dak Mi 2,Đăk Mi 2,Plant,
+Dak Mi 3,Đăk Mi 3,Plant,
+Dak Mi 4,"Đak Mi 4 (4A, 4B và 4C)",Plant,
+Dak Re,Đăk Re,Plant,
+Dakdrinh,Đakđrinh,Plant,
+Dakr'tih,Đakr’tih,Plant,
+Dam'Bri,Đam'Bri,Plant,
+Bac Lieu,Bạc Liêu giai đoạn III,Plant,
+Hanbaram,Hanbaram,Plant,
+Khai Long (Ca Mau),Khai Long (Cà Mau),Plant,
+Soc Trang,Sóc Trăng,Plant,
+Trung - Nam,Trung - Nam,Plant,
+Ninh Thuan 1,Ninh Thuận I #1,Plant,Unit 1
+Ninh Thuan 1,Ninh Thuận I #2,Plant,Unit 2
+Ninh Thuan 2,Ninh Thuận II #1,Plant,Unit 1
+Ninh Thuan 2,Ninh Thuận II #2,Plant,Unit 2
+Thien Tan 1,Thiên Tân 1,Plant,
+Thien Tan 2,Thiên Tân 2,Plant,
+Thien Tan 3,Thiên Tân 3,Plant,
+An Khe,An Khê #1,Plant,Unit 1
+An Khe,An Khê #2,Plant,Unit 2
+Dong Nai 2,Đồng Nai 2,Plant,
+Dong Nai 3,Đồng Nai 3,Plant,
+Dong Nai 4,Đồng Nai 4,Plant,
+Dong Nai 5,Đồng Nai 5,Plant,
+Hai Ha 1,Hải Hà 1,Plant,
+Hai Ha 2,Hải Hà 2,Plant,
+Hai Ha 3,Hải Hà 3,Plant,
+Hai Ha 4,Hải Hà 4,Plant,
+Rang Dong,Rạng Đông,Plant,
+Dung Quat 1,Dung Quất 1,Plant,
+Dung Quat 2,Dung Quất 2,Plant,
+Dung Quat 3,Dung Quất 3,Plant,
+Dung Quat 1,Dung Quất I,Plant,
+Dung Quat 2,Dung Quất II,Plant,
+Duyen Hai 1,Duyên Hải 1,Plant,
+Duyen Hai 2,Duyên Hải 2,Plant,
+Duyen Hai 3,Duyên Hải 3,Plant,
+Duyen Hai 3 Extension,Duyên Hải 3 MR,Plant,
+Duyen Hai 2,"Duyên Hải II #1,2",Plant,Unit 1 & 2
+Duyen Hai 3,Duyên Hải III #1,Plant,Unit 1
+Duyen Hai 3,Duyên Hải III #2,Plant,Unit 2
+Duyen Hai 3 Extension,Duyên Hải III mở rộng,Plant,
+Formosa Dong Nai,Formosa Đồng Nai,Plant,
+Formosa Dong Nai,Formosa Đồng Nai #3,Plant,Unit 3
+Formosa Ha Tinh,Formosa Hà Tĩnh,Plant,
+Formosa Ha Tinh,Formosa Hà Tĩnh #10,Plant,Unit 10
+Formosa Ha Tinh,Formosa Hà Tĩnh #2,Plant,Unit 2
+Formosa Ha Tinh,"Formosa Hà Tĩnh #3,4",Plant,Unit 3 & 4
+Formosa Ha Tinh,Formosa Hà Tĩnh #5,Plant,Unit 5
+Formosa Ha Tinh,"Formosa Hà Tĩnh #6,7",Plant,Unit 6 & 7
+Formosa Ha Tinh,"Formosa Hà Tĩnh #8,9",Plant,Unit 8 & 9
+Hai Duong,Hải Dương,Plant,
+Hai Duong,Hải Dương #1,Plant,Unit 1
+Hai Duong,Hải Dương #2,Plant,Unit 2
+Hai Ha 1-4,Hải Hà 1-4,Plant,
+Hai Phong,Hải Phòng,Plant,
+Hai Phong 3,Hải Phòng 3,Plant,
+Hai Phong 3,Hải Phòng III #1,Plant,Unit 1
+Hai Phong 3,Hải Phòng III #2,Plant,Unit 2
+Ham Thuan,Hàm Thuận,Plant,
+Hoa Binh,Hoà Bình,Plant,
+Hoa Binh Extension,Hòa Bình mở rộng #1,Plant,Unit 1
+Hoa Binh Extension,Hòa Bình mở rộng #2,Plant,Unit 2
+Hoa Binh Extension,Hoà Bình MR,Plant,
+Long Son,Long Sơn #1,Plant,Unit 1
+Long Son,"Long Sơn #2,3",Plant,Unit 2 & 3
+Hoi Xuan,Hồi Xuân,Plant,
+Hua Na,Hủa Na,Plant,
+Huoi Quang,Huội Quảng,Plant,
+Huoi Quang,Huội Quảng #2,Plant,Unit 2
+Huoi Quang 2,Huội Quang 2,Plant,
+Huoi Tao,Huối Tạo,Plant,
+Huong Dien,Hương Điền,Plant,
+Huong Son,Hương Sơn,Plant,
+Ialy,Ialy,Plant,
+Ialy Extenstion,Ialy mở rộng,Plant,
+Ialy Extension,Ialy MR,Plant,
+Kanak,Kanak,Plant,
+Khe Bo,Khe Bố,Plant,
+"Kien Giang 1,2","Kiên Giang 1,2",Plant,
+Kien Giang 1,Kiên Giang I,Plant,
+Kien Giang 2,Kiên Giang II,Plant,
+Krong H'nang,Krông H’năng,Plant,
+La Ngau,La Ngâu,Plant,
+Lai Chau,Lai Châu,Plant,
+Lai Chau,"Lai Châu #2,3",Plant,Unit 2 & 3
+"Lai Chau 2,3","Lai Châu 2,3",Plant,
+Long An 1,Long An 1,Plant,
+Long An 2,Long An 2,Plant,
+Long An 1,Long An I #1,Plant,Unit 1
+Long An 1,Long An I #2,Plant,Unit 2
+Long An 2,Long An II #1,Plant,Unit 1
+Long An 2,Long An II #2,Plant,Unit 2
+Long Phu 1,Long Phú 1,Plant,
+Long Phu 2,Long Phú 2,Plant,
+Long Phu 3,Long Phú 3,Plant,
+Long Phu 1,Long Phú I #1,Plant,Unit 1
+Long Phu 1,Long Phú I #2,Plant,Unit 2
+Long Phu 2,Long Phú II #1,Plant,Unit 1
+Long Phu 2,Long Phú II #2,Plant,Unit 2
+Long Phu 3,Long Phú III #1,Plant,Unit 1
+Long Phu 3,"Long Phú III #2,3",Plant,Unit 2 & 3
+Long Tao,Lông Tạo,Plant,
+Luc Nam 1,Lục Nam #1,Plant,Unit 1
+Luc Nam,Lục Nam #2,Plant,Unit 2
+Mao Khe,Mạo Khê,Plant,
+"Mien Trung 1,2","Miền Trung 1,2",Plant,
+Mien Trung 1,Miền Trung I,Plant,
+Mien Trung 2,Miền Trung II,Plant,
+Mien Trung 3,Miền Trung III (nếu khi cho hóa dầu không khả thi),Plant,
+Mong Duong,Mông Dương,Plant,
+Mong Duong 2,Mông Dương 2,Plant,
+Muong Hum,Mường Hum,Plant,
+My Ly,Mỹ Lý,Plant,
+Na Duong,Na Dương,Plant,
+Na Duong 2,Na Dương 2,Plant,
+Na Duong 2,Na Dương II,Plant,
+Nam Chien 1,Nậm Chiến 1,Plant,
+Nam Chien 2,Nậm Chiến 2,Plant,
+Nam Dinh 1,Nam Định 1,Plant,
+Nam Dinh 1,Nam Định I #1,Plant,
+Nam Dinh 1,Nam Định I #2,Plant,
+Nam Mo,Nậm Mô,Plant,
+Nam Mo,Nậm Mô (Láo),Plant,
+Nam Mo,Nậm Mô (Việt Nam),Plant,
+Nam Muc,Nậm Mức,Plant,
+Nam Na 2,Nậm Na 2,Plant,
+Nam Na 3,Nậm Na 3,Plant,
+Nam Pha 5,Nậm Phà 5,Plant,
+Nam Phang,Nậm Phàng,Plant,
+Nam Toong,Nậm Toóng,Plant,
+Alternative energy sources,"Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",Plant,
+Nghi Son 1,Nghi Sơn 1,Plant,
+Nghi Son 2,Nghi Sơn 2,Plant,
+Nghi Son 2,Nghi Sơn II #1,Plant,Unit 1
+Nghi Son 2,Nghi Sơn II #2,Plant,Unit 2
+Ngoi Phat,Ngòi Phát,Plant,
+Nhan Hac,Nhạn Hạc,Plant,
+Nho Que 1,Nho Quế 1,Plant,
+Nho Que 2,Nho Quế 2,Plant,
+Nho Que 3,Nho Quế 3,Plant,
+Nhon Trach 1,Nhơn Trạch 1,Plant,
+Nhon Trach 2,Nhơn Trạch 2,Plant,
+"Nhon Trach 3,4","Nhơn Trạch 3,4",Plant,
+O Mon 2,Ô Môn 2,Plant,
+O Mon 3,Ô Môn 3,Plant,
+O Mon 4,Ô Môn 4,Plant,
+O Mon 2,Ô Môn II,Plant,
+O Mon 3,Ô Môn III,Plant,
+O Mon 4,Ô Môn IV,Plant,
+Pac Ma,Pắc Ma,Plant,
+Pha Lai 1,Phả Lại 1,Plant,
+Pha Lai 2,Phả Lại 2,Plant,
+Phu My 1,Phú Mỹ 1,Plant,
+Phu My 2.1,Phú Mỹ 2.1,Plant,
+Phu My 2.2,Phú Mỹ 2.2,Plant,
+Phu My 3,Phú Mỹ 3,Plant,
+Phu My 4,Phú Mỹ 4,Plant,
+Pleikrong,Pleikrông,Plant,
+Quang Ninh,Quảng Ninh,Plant,
+Quang Ninh 3,Quảng Ninh 3,Plant,
+Quang Ninh 3,Quảng Ninh III #1,Plant,Unit 1
+Quang Ninh 3,Quảng Ninh III #2,Plant,Unit 2
+Quang Trach 1,Quảng Trạch 1,Plant,
+Quang Trach 2,Quảng Trạch 2,Plant,
+Quang Trach 1,Quảng Trạch I #1,Plant,Unit 1
+Quang Trach 1,Quảng Trạch I #2,Plant,Unit 2
+Quang Trach 2,Quảng Trạch II #1,Plant,Unit 1
+Quang Trach 2,Quảng Trạch II #2,Plant,Unit 2
+Quang Tri,Quảng Trị,Plant,
+Quang Tri,Quảng Trị #1,Plant,Unit 1
+Quang Tri,Quảng Trị #2,Plant,Unit 2
+Quang Tri 1,Quảng Trị 1,Plant,
+Quynh Lap 1,Quỳnh Lập 1,Plant,
+Quynh Lap 2,Quỳnh Lập 2,Plant,
+Quynh Lap 1,Quỳnh Lập I #1,Plant,Unit 1
+Quynh Lap 1,Quỳnh Lập I #2,Plant,Unit 2
+Quynh Lap 2,Quỳnh Lập II #1,Plant,Unit 1
+Quynh Lap 2,Quỳnh Lập II #2,Plant,Unit 2
+Se San 3,Sê San 3,Plant,
+Se San 3A,Sê San 3A,Plant,
+Se San 4,Sê San 4,Plant,
+Se San 4A,Sê San 4A,Plant,
+Sekaman 1,Sêkaman 1 (Lào),Plant,
+Sekaman 4,Sêkaman 4 (Lào),Plant,
+Sekaman Xanxay,Sêkaman Xanxay (Lào),Plant,
+KCP,KCP #1,Plant,Unit 1
+KCP,KCP #2,Plant,Unit 2
+Lee and Man,Lee&Man,Plant,
+Son Dong,Sơn Động,Plant,
+Son La,Sơn La,Plant,
+Son My,Sơn Mỹ,Plant,
+Son My 2,Sơn Mỹ 2,Plant,
+Son My 1,Sơn Mỹ I #1,Plant,Unit 1
+Son My 1,Sơn Mỹ I #2,Plant,Unit 2
+Son My 1,Sơn Mỹ I #3,Plant,Unit 3
+Son My 2,Sơn Mỹ II #1,Plant,Unit 1
+Son My 2,Sơn Mỹ II #2,Plant,Unit 2
+Son My 2,Sơn Mỹ II #3,Plant,Unit 3
+Song Ba Ha,Sông Ba Hạ,Plant,
+Song Bac,Sông Bạc,Plant,
+Song Bung 2,Sông Bung 2,Plant,
+Song Bung 4,Sông Bung 4,Plant,
+Song Bung 4A,Sông Bung 4A,Plant,
+Song Bung 5,Sông Bung 5,Plant,
+Song Con 2,Sông Côn 2,Plant,
+Song Giang 2,Sông Giang 2,Plant,
+Song Hau 1,Sông Hậu 1,Plant,
+Song Hau 2,Sông Hậu 2,Plant,
+Song Hau 1,"Sông Hậu I #1,2",Plant,Unit 1 & 2
+Song Hau 2,Sông Hậu II #1,Plant,Unit 1
+Song Hau 2,Sông Hậu II #2,Plant,Unit 2
+Song Hinh,Sông Hinh,Plant,
+Song Lo 6,Sông Lô 6,Plant,
+Song Mien 4,Sông Miện 4,Plant,
+Song Tranh 2,Sông Tranh 2,Plant,
+Song Tranh 3,Sông Tranh 3,Plant,
+Song Tranh 4,Sông Tranh 4,Plant,
+Srepok 3,Srêpok 3,Plant,
+Srepok 4,Srêpok 4,Plant,
+Srepok 4A,Srêpok 4A,Plant,
+Srok Phu Mieng,Srok Phu Miêng,Plant,
+Su Pan 2,Sử Pán 2,Plant,
+Ta Thang,Tà Thàng,Plant,
+Tan Phuoc 1,Tân Phước 1,Plant,
+Tan Phuoc 2,Tân Phước 2,Plant,
+Tan Phuoc 1,Tân Phước I #1,Plant,Unit 1
+Tan Phuoc 1,Tân Phước I #2,Plant,Unit 2
+Tan Phuoc 2,Tân Phước II #1 (*),Plant,Unit 1
+Tan Phuoc 2,Tân Phước II #2 (*),Plant,Unit 2
+Thac Ba,Thác Bà,Plant,
+Thac Mo,Thác Mơ,Plant,
+Thac Mo Extension,Thác Mơ mở rộng,Plant,
+Thac Mo Extension,Thác Mơ MR,Plant,
+Thai An,Thái An,Plant,
+Thai Binh 1,Thái Bình 1,Plant,
+Thai Binh 2,Thái Bình 2,Plant,
+Thai Binh 1,"Thái Bình I #1,2",Plant,Unit 1 & 2
+Thai Binh 2,Thái Bình II #1,Plant,Unit 1
+Thai Binh 2,Thái Bình II #2,Plant,Unit 2
+Ve Dan,Vê Đan,Plant,
+Thang Long,Thăng Long,Plant,
+Thang Long,Thăng Long #1,Plant,Unit 1
+Thang Long,Thăng Long #2,Plant,Unit 2
+Thuan Hoa,Thuận Hòa,Plant,
+Thuong KonTum,Thượng KonTum,Plant,
+Thuong KonTum,"Thượng KonTum #1,2",Plant,Unit 1 & 2
+Bac Ai,"Bác Ái #1,2",Plant,Unit 1 & 2
+Bac Ai,"Bác Ái #3,4",Plant,Unit 3 & 4
+Don Duong,Đồn Dương #1,Plant,Unit 1
+Dong Phu Yen,Đồng Phù Yên #1,Plant,Unit 1
+Dong Phu Yen,Đồng Phù Yên #2,Plant,Unit 2
+Dong Phu Yen,Đồng Phù Yên #3,Plant,Unit 3
+Tra Khuc 1,Trà Khúc 1,Plant,
+Tri An,Trị An,Plant,
+Tri An Extension,Trị An mở rộng,Plant,
+Tri An Extension,Trị An MR,Plant,
+Trung Son,Trung Sơn,Plant,
+Trung Son,"Trung Sơn #1,2",Plant,Unit 1 & 2
+Trung Son,"Trung Sơn #3,4",Plant,Unit 3 & 4
+Tuyen Quang,Tuyên Quang,Plant,
+Uong Bi Extension,Uông Bí MR,Plant,
+Uong Bi,Uông Bí ngừng phát điên,Plant,
+Van Chan,Văn Chấn,Plant,
+Van Phong 1,Vân Phong 1,Plant,
+Van Phong 1,Vân Phong I #1,Plant,Unit 1
+Van Phong 1,Vân Phong I #2,Plant,Unit 2
+Vinh Son,Vĩnh Sơn,Plant,
+Vinh Tan 1,Vĩnh Tân 1,Plant,
+Vinh Tan 2,Vĩnh Tân 2,Plant,
+Vinh Tan 3,Vĩnh Tân 3,Plant,
+Vinh Tan 4,Vĩnh Tân 4,Plant,
+Vinh Tan 4 Extension,Vĩnh Tân 4 MR,Plant,
+Vinh Tan 1,"Vĩnh Tân I #1,2",Plant,Unit 1 & 2
+Vinh Tan 3,Vĩnh Tân III #1,Plant,Unit 1
+Vinh Tan 3,"Vĩnh Tân III #2,3",Plant,Unit 2 & 3
+Vinh Tan 4,"Vĩnh Tân IV #1,2",Plant,Unit 1 & 2
+Vinh Tan 4 Extension,Vĩnh Tân IV mở rộng,Plant,
+Vung Ang 1,Vũng Áng 1,Plant,
+Vung Ang 2,Vũng Áng 2,Plant,
+Vung Ang 3,Vũng Áng 3,Plant,
+Vung Ang 2,Vũng Áng II #1,Plant,Unit 1
+Vung Ang 2,Vũng Áng II #2,Plant,Unit 2
+Vung Ang 3,Vũng Áng III #1,Plant,Unit 1
+Vung Ang 3,Vũng Áng III #2,Plant,Unit 2
+Vung Ang 3,Vũng Áng III #3 (*),Plant,Unit 3
+Vung Ang 3,Vũng Áng III #4 (*),Plant,Unit 4
+Yen Son,Yên Sơn,Plant,
+Hydro,Thủy điện,Fuel,
+Coal,NĐ Than,Fuel,Coal-fueled thermal
+Gas,Tuabin khí,Fuel,
+Nuclear,Điện hạt nhân,Fuel,
+Wind,Điện gió,Fuel,
+Solar,Điện mặt trời,Fuel,
+Biomass,Điện sinh khối,Fuel,
+Coal,NĐ,Fuel,
+Hydro,TĐ,Fuel,
+Gas,NĐ hóa dầu,Fuel,Gas-fueled thermal
+Biomass,NMĐ sinh khối,Fuel,
+Biomass,NĐ sinh khối,Fuel,Biomass with sugar
+Coal,NĐ than,Fuel,
+Gas,TBKHH,Fuel,Gas-fueled combined cycle

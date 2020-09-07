@@ -1,0 +1,538 @@
+std_name,capacity_mw,latitude,longitude,std_fuel,commissioning_year
+A Lin,62,,,Hydro,2018
+A Luoi,170,16.2839,107.3589,Hydro,2012
+A Roang,7.2,16.12,107.38,Hydro,2013
+A Vuong,210,15.7998,107.6171,Hydro,2008
+Alin B1,42,16.4042,107.1914,Hydro,2019
+Alternative energy sources,520,,,Renewable,2018
+Alternative energy sources,3530,,,Renewable,2030
+Alternative energy sources,3350,,,Renewable,2029
+Alternative energy sources,3240,,,Renewable,2028
+Alternative energy sources,2910,,,Renewable,2027
+Alternative energy sources,2160,,,Renewable,2026
+Alternative energy sources,1800,,,Renewable,2025
+Alternative energy sources,1200,,,Renewable,2022
+Alternative energy sources,1200,,,Renewable,2024
+Alternative energy sources,1000,,,Renewable,2023
+Alternative energy sources,790,,,Renewable,2021
+Alternative energy sources,450,,,Renewable,2019
+Alternative energy sources,470,,,Renewable,2020
+Alternative energy sources,360,,,Renewable,2017
+Alternative energy sources,260,,,Renewable,2016
+Amata,13,10.9471,106.9,Oil,
+An Diem 2,15.6,19.1995,108.083,Hydro,2010
+An Khanh,120,21.5969,105.767,Coal,2015
+An Khe,160,14.0148,108.6796,Hydro,2009
+Ayun Ha,3,13.5809,108.2592,Hydro,
+Ayun Pa Sugar-Cane,20,13.4259,108.4242,Biomass,2010
+Ayun Thuong 1A,12,13.9181,108.2333,Hydro,2012
+Ba Ria,389,10.4891,107.17,Gas,1993
+Ba Thuoc 1,60,20.3122,105.1619,Hydro,2013
+Ba Thuoc 2,80,20.3222,105.3217,Hydro,2012
+Bac Ai,600,,,Hydro,2023
+Bac Ai,600,,,Hydro,2025
+Bac Binh,34,11.3711,108.33,Hydro,2009
+Bac Ha,90,22.3024,104.1142,Hydro,2011
+Bac Lieu,99.2,9.1207,105.4445,Wind,2012
+Bac Lieu 1,600,,,Coal,2029
+Bac Lieu 1,600,,,Coal,2030
+Bac Me,45.5,22.7369,105.3844,Hydro,2014
+Ban Chat,220,21.8612,103.8286,Hydro,2013
+Ban Coc,18,19.5894,104.8749,Hydro,2009
+Ban Mong (Song Hieu),60,,,Hydro,2022
+Ban Nhung Small,11,22.0028,106.5875,Hydro,2013
+Ban Ra,18,22.8439,106.6917,Hydro,2012
+Ban Ve,320,19.3404,104.4873,Hydro,2010
+Bao Lam 3,46,23.0047,105.2912,Hydro,2019
+Bao Nhai,14,22.4435,104.2517,Hydro,2012
+Bau Can,0.215,,,Hydro,
+Bauxit Aluminum Factory,30,,,Oil,
+Bien Ho,0.225,,,Hydro,
+Binh Dien,44,16.3172,107.5028,Hydro,2009
+Binh Thuan,30,11.12,108.4,Wind,2009
+Bourbon,24,10.613,106.49,Oil,1997
+Bu Ca Mau,4,11.8713,106.9768,Hydro,2009
+Buon Kuop,280,12.5305,107.9243,Hydro,2011
+BuonTua Srah,86,12.2852,108.0383,Hydro,2009
+Ca Du,2.6,15.2714,108.5186,Hydro,2005
+Ca Mau 1,750,9.242,105.06,Gas,2008
+Ca Mau 2,750,9.242,105.06,Gas,2008
+Cai Lan,39,20.9861,107.03,Oil,2007
+Cam Pha,670,21.0063,107.36,Coal,2011
+Cam Pha 3,440,,,Coal,2020
+Cam Ranh Baggasse,11,12.0335,109.1788,Biomass,1999
+Cam Son,4.5,21.5438,106.5105,Hydro,1973
+Can Don,78,11.9689,106.8435,Hydro,2004
+Can Tho,185,10.1,105.72,Oil,1993
+Cao Ngan,115,21.613,105.82,Coal,2006
+Chau Thon,18,19.36,104.47,Hydro,2011
+Chi Khe,41,19.083,104.8,Hydro,2014
+Chiem Hoa,48,22.2056,105.3294,Hydro,2012
+Chieng Cong 1,4,21.4707,104.1852,Hydro,
+Chieng Cong 2,8,21.4572,104.2104,Hydro,
+Chieng Ngam Thuong,10,21.475,103.7778,Hydro,2013
+Chu Linh And Coc San,40.7,22.4119,103.8974,Hydro,2016
+Coc Dam,7.5,22.4431,104.3175,Hydro,2010
+Coc Ly,90,22.2985,103.1613,Hydro,2012
+Coc San,30,22.4144,103.9066,Hydro,2016
+Cong Thanh,600,,,Coal,2020
+Cua Dat,97,19.8782,105.2731,Hydro,2010
+Da Dang 2,34,11.6952,108.2442,Hydro,2010
+Da Dang-Dachomo,23,11.5809,108.3311,Hydro,2014
+Da Den,9,12.9183,109.1453,Hydro,2011
+Da Kai,6,12.0838,108.5953,Hydro,
+Da Mi,175,11.336,107.935,Hydro,2001
+Da Nhim,160,11.8529,108.6058,Hydro,1964
+Da Nhim Extension,45,11.5013,108.4052,Hydro,2017
+Da Nhim Thuong 2,7.5,12.1161,108.5852,Hydro,2010
+Dac Me,5,12.1333,108.313,Hydro,2011
+Dai Nga,10,11.4219,107.8754,Hydro,2015
+Dai Ninh,300,11.6499,108.3202,Hydro,2008
+Dak Doa,14,14.1958,108.105,Hydro,2010
+Dak Glun,18,12.0225,107.1783,Hydro,2011
+Dak Glun 2 And 3,11,12.0925,107.3464,Hydro,2012
+Dak Gret,3.6,,,Hydro,2015
+Dak Hnol,2.1,13.9375,108.2139,Hydro,2011
+Dak Lay,3.2,14.7979,108.0074,Hydro,2015
+Dak Lo,22,14.7306,108.3319,Hydro,2016
+Dak Me 1,4,12.1375,108.3222,Hydro,2012
+Dak Mek 3,7.5,15.091,107.5328,Hydro,2012
+Dak Mi 1,54,15.215,107.8192,Hydro,2018
+Dak Mi 2,98,15.2961,107.8161,Hydro,2016
+Dak Mi 3,63,15.3375,107.8326,Hydro,2016
+Dak Mi 4,208,15.4575,107.9155,Hydro,2012
+Dak N'Teng,10,12.2167,107.9792,Hydro,2011
+Dak Ne,8.1,14.6164,108.154,Hydro,2010
+Dak Nong 1,1.8,,,Hydro,
+Dak Nong 2,14.63,11.9433,107.6667,Hydro,2016
+Dak Pi Hao 4,9,,,Hydro,
+Dak Pia,2.2,14.6651,108.1593,Hydro,2012
+Dak Po Ne,15.6,14.5759,108.3049,Hydro,2009
+Dak Po Ne 2,3.6,14.526,108.2992,Hydro,2008
+Dak Pone,15.6,14.34,108.1821,Hydro,2011
+Dak Pring,7.5,15.6181,107.5528,Hydro,2017
+Dak Psi 3,15,14.6613,107.9367,Hydro,2012
+Dak Psi 3 And 4,45,14.775,107.9972,Hydro,2011
+Dak Psi 4,30,14.7684,108.0027,Hydro,2010
+Dak Psi 5,10,14.6592,107.9347,Hydro,2014
+Dak Re,60,,,Hydro,2022
+Dak Ro Sa,7.5,14.7473,107.8358,Hydro,2007
+Dak Rong 4,21,16.363,106.521,Hydro,2013
+Dak Ru,7.5,11.9522,107.4042,Hydro,2008
+Dak Rung,8,12.1538,107.6237,Hydro,2010
+Dak Rung 1,5,12.125,107.6333,Hydro,2010
+Dak Sin 1,27,11.8186,107.459,Hydro,2015
+Dak Srong,18,13.7659,108.5236,Hydro,2010
+Dak Srong 2,24,13.6958,108.5583,Hydro,2010
+Dak Srong 2A,18,13.6944,108.565,Hydro,2011
+Dak Srong 3A,10.2,13.3508,108.5306,Hydro,2014
+Dak Srong 3B,19.5,13.3222,108.5167,Hydro,2012
+Dak Ter 1,3.6,,,Hydro,2015
+Dak U,2.4,,,Hydro,2009
+Dakdrinh,125,15.0156,108.3953,Hydro,2014
+Dakr'tih,144,11.9131,107.6717,Hydro,2011
+Dakrong 2,18,16.3924,106.4839,Hydro,2013
+Dakrong 3,8,16.5306,106.9611,Hydro,2012
+Dakrosa2,2.4,14.7178,107.8194,Hydro,
+Dam'Bri,75,11.5272,107.6467,Hydro,2012
+Dam'Bri 1,9,11.6083,107.72,Hydro,2014
+Dasiat,13.5,11.8443,107.622,Hydro,2011
+Dinh Binh,9.9,14.1565,108.7727,Hydro,2008
+Doc Cay,15,19.9593,105.2661,Hydro,2011
+Don Duong,300,,,Hydro,2030
+Dong Chum 2,9.2,20.5659,104.5728,Hydro,2013
+Dong Nai 2,70,11.7233,108.0192,Hydro,2015
+Dong Nai 3,180,11.8722,107.8887,Hydro,2011
+Dong Nai 4,340,11.8856,107.6706,Hydro,2012
+Dong Nai 5,150,11.792,107.553,Hydro,2015
+Dong Ngai,8,21.2817,104.3306,Hydro,2015
+Dong Phu Yen,300,,,Hydro,2028
+Dong Phu Yen,300,,,Hydro,2029
+Dong Phu Yen,300,,,Hydro,2030
+Dray H'Linh 1,12,12.6712,107.9075,Hydro,1990
+Dray H'Linh 2,16,12.6757,107.9041,Hydro,2007
+Dung Quat 1,750,,,Gas,2023
+Dung Quat 2,750,,,Gas,2024
+Dung Quat Oil Refinery,104,15.354849,108.822418,Oil,2009
+Duyen Hai 1,1245,9.583,106.52,Coal,2015
+Duyen Hai 2,1200,,,Coal,2021
+Duyen Hai 3,1245,9.5867,106.53,Coal,2017
+Duyen Hai 3 Extension,688,,,Coal,2020
+E40,0.2,,,Hydro,
+Ea Drang,6.4,,,Hydro,2009
+Ea Drang 2,6.4,13.2375,108.0542,Hydro,2010
+Ea Kar,30,12.4306,108.5806,Hydro,2011
+Ea Krong Rou,28,12.5992,108.9397,Hydro,2007
+Ea Mdoal 2,5,,,Hydro,2010
+Ea Mdoal 3,5,12.7999,108.9287,Hydro,2010
+Eatul 4,6,12.8153,107.9222,Hydro,2012
+Formosa Dong Nai,450,10.7151,106.92,Coal,2011
+Formosa Ha Tinh,676,18.0288,106.45,Coal,2016
+Formosa Ha Tinh New,300,,,Coal,2020
+Formosa Ha Tinh New,200,,,Coal,2020
+Formosa Ha Tinh New,150,,,Coal,2020
+Gia Lai Sugar-Cane,12,13.4257,108.42,Biomass,2014
+Group Of Nam Tha,19.5,21.544,104.2213,Hydro,2010
+H'Chan,12,13.501,108.1043,Hydro,2006
+H'Mun,16.2,13.8097,108.1631,Hydro,2011
+Ha Nang,11,15.2917,108.4417,Hydro,2011
+Ha Rao Quan,6.4,16.6472,106.7736,Hydro,2010
+Ha Song Pha 1,5.4,11.8284,108.6906,Hydro,2013
+Ha Song Pha 2,5.1,11.8319,108.7073,Hydro,2015
+Ha Tay,9,14.2548,108.12,Hydro,2014
+Hai Duong,600,,,Coal,2020
+Hai Duong,600,,,Coal,2021
+Hai Ha 1,150,21.4154607,107.7430017,Coal,2019
+Hai Ha 2,750,,,Coal,2022
+Hai Ha 3,600,,,Coal,2025
+Hai Ha 4,600,,,Coal,2028
+Hai Phong,1200,20.9419,106.76,Coal,2012
+Hai Phong 3,600,,,Coal,2025
+Hai Phong 3,600,,,Coal,2026
+Ham Thuan,300,11.336,107.935,Hydro,2001
+Hanbaram,117,,,Wind,2020
+Hang Dong A1,8.4,21.2658,104.5407,Hydro,2012
+Hat Liu,5,21.5067,104.3622,Hydro,2014
+Hiep Phuoc,375,10.642,106.75,Oil,1998
+Ho Bon,18,21.8589,103.9264,Hydro,2012
+Ho Ho,14,18.0464,105.8334,Hydro,2010
+Ho Nui Coc,1.89,21.5567,105.7322,Hydro,2009
+Hoa Binh,1920,20.8082,105.3233,Hydro,1988
+Hoa Binh Extension,240,,,Hydro,2021
+Hoa Binh Extension,240,,,Hydro,2022
+Hoa Phu,29,12.6497,107.9091,Hydro,2014
+Hoa Tham,5.8,22.6,106.08,Hydro,2013
+Hoi Xuan,102,20.4454,105.0531,Hydro,2013
+Hua Na,180,19.8381,105.0846,Hydro,2013
+Huoi Quang,520,21.6965,103.8776,Hydro,2015
+Huoi Tao,180,,,Hydro,2030
+Huong Dien,81,16.4601,107.4233,Hydro,2010
+Huong Son,33,18.4333,105.1667,Hydro,2012
+Huy Mang,1.8,,,Hydro,2015
+Ia Drang 1,0.6,13.7356,107.8425,Hydro,
+Ia Drang 2,1.2,13.7389,107.8508,Hydro,
+Ia Drang 3,1.6,,,Hydro,
+Ia Grai 1,10.8,13.9597,107.7083,Hydro,2012
+Ia Grai 2,7.5,13.9756,107.7928,Hydro,2014
+Ia Grai 3,7.5,14.0222,107.649,Hydro,2007
+Ia H'Rung,4.5,,,Hydro,
+Ia H'Rung And Chu Prong,8.25,13.9697,107.7617,Hydro,2013
+Ia Krel,0.4,,,Hydro,
+Ia Lop,0.25,,,Hydro,
+Ia Mo 3,1.8,,,Hydro,
+Ia Puch 3,6.6,13.7231,107.7812,Hydro,2011
+Ia Rung,0.11,,,Hydro,
+Ialy,720,14.2274,107.8294,Hydro,2002
+Ialy Extenstion,360,,,Hydro,2020
+Kanak,13,14.0151,108.6796,Hydro,2008
+KCP,30,13.0475,108.9955,Biomass,2016
+KCP,30,13.0475,108.9955,Biomass,2018
+Ke Go,2.3,18.1953,105.928,Hydro,1988
+Kenh Bac,0.94,,,Hydro,
+Khai Long (Ca Mau),100,8.5668,104.8286,Wind,2018
+Khanh Khe,7,21.8172,106.6568,Hydro,2013
+Khau Chu,5,,,Hydro,2015
+Khe Bo,100,19.1764,104.6642,Hydro,2013
+Khe Giong,5,16.6069,106.7889,Hydro,2012
+Khe Ron,6,17.9168,105.9706,Hydro,2009
+Kien Giang 1,750,,,Gas,2021
+Kien Giang 2,750,,,Gas,2022
+Kon Dao,1,14.6967,107.8258,Hydro,1984
+Krong H'nang,64,12.563,108.4241,Hydro,2010
+Krong Hin,5,,,Hydro,2005
+Krong Kmar,12,12.452,108.3372,Hydro,2008
+Krong No 3,18,12.2117,108.2847,Hydro,2016
+La Hieng 2,15,13.4908,108.8794,Hydro,2015
+La La,3,16.5958,106.6789,Hydro,2012
+La Ngau,46,11.1842,107.7833,Hydro,2015
+Lai Chau,1200,22.1379,102.9839,Hydro,2015
+Lang Bang,3.6,21.9069,104.5369,Hydro,2012
+Lao Cai - Lai Chau - Kontum Bundled,13.8,22.3247,104.0337,Hydro,2011
+Lao Cai-Yen Bai Bundled,13.5,22.023,104.59,Hydro,2012
+Lao Chai,2.4,22.31,103.8599,Hydro,2013
+Lap Vo Rice Husk Power Plant,10,10.3492,105.57,Biomass,2011
+Lee and Man,125,9.9386,105.8751,Biomass,2018
+Long An 1,600,,,Coal,2024
+Long An 1,600,,,Coal,2025
+Long An 2,800,,,Coal,2026
+Long An 2,800,,,Coal,2027
+Long Phu 1,600,9.710813,106.079221,Coal,2018
+Long Phu 1,600,9.710813,106.079221,Coal,2019
+Long Phu 2,660,,,Coal,2021
+Long Phu 2,660,,,Coal,2022
+Long Phu 3,1200,,,Coal,2022
+Long Phu 3,600,,,Coal,2021
+Long Son,150,10.4527,107.0894,Gas,2018
+Long Son,75,10.4527,107.0894,Gas,2017
+Long Tao,42,21.4251,103.1258,Hydro,2017
+Luc Nam,50,,,Coal,2023
+Luc Nam 1,50,,,Coal,2022
+Mao Khe,440,21.0907,105.77,Coal,2013
+Mien Trung 1,750,,,Gas,2023
+Mien Trung 2,750,,,Gas,2024
+Mien Trung 3,750,,,Gas,2026
+Minh Luong,22.5,22.0324,104.072,Hydro,2012
+Mong Duong,1080,21.0728,107.35,Coal,2015
+Mong Duong 2,1200,21.0725,107.35,Coal,2015
+Muong Hum,32,22.5411,103.7409,Hydro,2011
+Muong Kim,34.5,21.8718,103.9062,Hydro,2010
+Muong Sang,2.4,20.49,104.35,Hydro,2009
+Muong Sang  Thu Cuc  Tat Ngoang,11.6,20.881,104.5694,Hydro,2012
+My Ly,250,,,Hydro,2021
+Na Duong,111.2,21.6981,106.976,Coal,2005
+Na Duong 2,110,21.69829,106.97604,Coal,2019
+Na Loa,6,22.6846,106.599,Hydro,2006
+Na Loi,9.3,21.4687,103.0584,Hydro,2003
+Na Táº©U,6,22.6722,106.505,Hydro,2014
+Nam An,6,22.5492,104.8736,Hydro,
+Nam Can 2,20,19.4,104.0972,Hydro,2014
+Nam Cat,8.2,22.2092,105.7897,Hydro,2012
+"Nam Cau 1,2",13.8,22.4119,102.8078,Hydro,2014
+Nam Chanh,2.1,21.2569,103.8728,Hydro,2011
+Nam Chien 1,200,21.5935,104.1444,Hydro,2013
+Nam Chien 2,32,21.51,104.1044,Hydro,2009
+Nam Chim,16,21.3278,104.3367,Hydro,2012
+Nam Cong 3,8,21,103.65,Hydro,2013
+"Nam Cum 1, 4, 5",65,,,Hydro,2019
+"Nam Cum 2, 3, 6",54,,,Hydro,2020
+Nam Dinh 1,600,,,Coal,2021
+Nam Dinh 1,600,,,Coal,2022
+Nam Dong 4,6.8,21.36,104.27,Hydro,2013
+Nam Gion,20,21.6356,103.7794,Hydro,2011
+Nam He,16,21.9647,103.1019,Hydro,2013
+Nam Ho,7.5,22.5643,103.6805,Hydro,
+Nam Hoa 1,18,21.3557,103.4076,Hydro,2015
+Nam Hoa 2,8,21.3544,103.4072,Hydro,2013
+Nam Hong,16,21.4522,104.2367,Hydro,2011
+Nam Khanh,12,22.4894,104.3753,Hydro,2012
+Nam Khoa 1&2,8,22.0653,103.975,Hydro,2013
+Nam Khoa 3,18,22.02,103.59,Hydro,2011
+Nam Khot,14,21.6315,104.1718,Hydro,2011
+Nam La,27,21.4049,103.9836,Hydro,2011
+Nam Luc,24,22.35,104.3778,Hydro,2013
+Nam Mo,16,19.4142,104.1122,Hydro,2013
+Nam Mo 3,10,21.3198,104.3022,Hydro,2009
+Nam Mo New,95,,,Hydro,2020
+Nam Mo New,72,,,Hydro,2026
+Nam Mu,12,22.5496,104.8767,Hydro,2004
+Nam Mu and Khuoi Luong,14.4,22.0227,103.5923,Hydro,2012
+Nam Muc,44,21.7981,103.2935,Hydro,2014
+Nam Na 2,66,22.495,103.2339,Hydro,2015
+Nam Na 3,84,22.2972,103.1623,Hydro,2015
+Nam Ngan,13.5,22.3625,104.5445,Hydro,2010
+Nam Non,20,19.2889,104.42,Hydro,2014
+Nam Nua,10.8,21.3042,102.9492,Hydro,2012
+Nam Pha 5,35,,,Hydro,2020
+Nam Phang,36,22.2515,104.1905,Hydro,2012
+Nam Pia,15,21.4452,104.1691,Hydro,2009
+Nam Pong,30,19.521,105.036,Hydro,2014
+Nam Pung,9.3,22.5036,103.7202,Hydro,2009
+Nam Si Luong,0.5,21.3412,104.3498,Hydro,2002
+Nam Si Luong 3,17.4,22.4153,102.8478,Hydro,2013
+Nam Si Luong 4,15.6,22.3913,102.8386,Hydro,2013
+Nam Soi & Nam Cong,20,21.0386,103.7081,Hydro,2011
+Nam Tang And Na Hau,10,21.7803,104.6042,Hydro,2011
+Nam Tha 3,14,21.9353,104.3883,Hydro,2012
+Nam Toong,34,22.2844,103.9318,Hydro,2014
+Nam Trai 4,9.6,21.6375,103.9792,Hydro,2012
+Nam Xa,9.6,21.4739,104.1844,Hydro,2014
+Nam Xay Noi 2,12,21.9639,104.0389,Hydro,2012
+Nghi Son 1,600,19.3158,105.8,Coal,2014
+Nghi Son 2,600,,,Coal,2021
+Nghi Son 2,600,,,Coal,2022
+Ngoi Hut 1,8.4,21.78,104.33,Hydro,2011
+Ngoi Hut 2,48,21.472,104.2533,Hydro,2014
+Ngoi Phat,72,22.6044,103.8,Hydro,2014
+Ngoi Xan,18.6,22.4692,104.1019,Hydro,2011
+Nhan Hac,59,,,Hydro,2016
+Nhan Hac And Sao Va,48,19.7989,104.9417,Hydro,2014
+Nho Que 1,32,23.1352,105.2538,Hydro,2015
+Nho Que 2,48,23.1053,105.284,Hydro,2016
+Nho Que 3,110,23.1417,105.5167,Hydro,2012
+Nhon Trach 1,450,10.6428,106.84,Gas,2009
+Nhon Trach 2,750,10.6428,106.8398,Gas,2010
+Ninh Binh,100,20.2527,105.98,Coal,1974
+Ninh Hoa Baggasse,8,12.5079,109.0633,Biomass,2014
+Ninh Thuan 1,1200,,,Nuclear,2028
+Ninh Thuan 1,1200,,,Nuclear,2029
+Ninh Thuan 2,1100,,,Nuclear,2029
+Ninh Thuan 2,1100,,,Nuclear,2030
+Nong Son,30,15.7171,108.03,Coal,2014
+Nuoc Trong,16.5,15.0809,108.4118,Hydro,2012
+O Mon 1,660,10.1332,105.67,Gas,2012
+O Mon 2,750,,,Gas,2026
+O Mon 3,750,,,Gas,2020
+O Mon 4,750,,,Gas,2021
+Pa Chien,22,21.476,104.0403,Hydro,2013
+Pa Khoang,2.4,20.4569,103.0889,Hydro,2010
+Pac Ma,140,22.3358,102.3104,Hydro,2019
+Pao Cu Sang,10.5,21.3333,104.3111,Hydro,2015
+Pha Lai 1,440,21.1146,106.31,Coal,1983
+Pha Lai 2,600,21.1141,106.31,Coal,2011
+Phu Mau,5.6,21.58,104.19,Hydro,2009
+Phu My 1,1059,10.6056,107.04,Gas,2000
+Phu My 2.1,860,10.6041,107.04,Gas,2002
+Phu My 2.2,720,10.603,107.04,Gas,2005
+Phu My 3,720,10.6014,107.04,Gas,2004
+Phu My 4,440,10.5975,107.03,Gas,2004
+Phu My Fertilizer,18,10.5939,107.0403,Oil,2004
+Phu Quy,6,10.5504,108.9328,Wind,2013
+Phu Tho,105,,,Hydro,2023
+Phuong Mai 3,21,13.9082,109.2576,Wind,2017
+Pleikrong,100,14.4084,107.863,Hydro,2009
+Quang Hiep,0.5,,,Hydro,2002
+Quang Ninh,1200,21.0118,107.13,Coal,2011
+Quang Ninh 3,600,,,Coal,2029
+Quang Ninh 3,600,,,Coal,2030
+Quang Tin,5,11.9558,107.4092,Hydro,2009
+Quang Trach 1,600,,,Coal,2021
+Quang Trach 1,600,,,Coal,2022
+Quang Trach 2,600,,,Coal,2028
+Quang Trach 2,600,,,Coal,2029
+Quang Tri,64,16.6498,106.7457,Hydro,2009
+Quang Tri New,600,,,Coal,2023
+Quang Tri New,600,,,Coal,2024
+Quynh Lap 1,600,,,Coal,2022
+Quynh Lap 1,600,,,Coal,2023
+Quynh Lap 2,600,,,Coal,2026
+Quynh Lap 2,600,,,Coal,2027
+Rang Dong,100,,,Coal,2025
+Ry Ninh,3.6,14.209,107.8141,Hydro,
+Ry Ninh 2,8.1,14.1233,107.4851,Hydro,
+Sao Va,3,19.6605,104.9386,Hydro,2010
+Sap Viet,21,21.0894,104.3675,Hydro,2013
+Se San 3,260,14.2152,107.7222,Hydro,2006
+Se San 3A,108,14.1063,107.6577,Hydro,2007
+Se San 4,360,13.9678,107.4953,Hydro,2009
+Se San 4A,63,13.9308,107.4678,Hydro,2011
+Sekaman 1,290,,,Hydro,2016
+Sekaman 4,80,,,Hydro,2018
+Sekaman Xanxay,32,,,Hydro,2017
+Seo Chong Ho,22,22.25,103.894,Hydro,2013
+So Lo,8.7,20.44,105.01,Hydro,2009
+Soc Trang,99,9.2495,105.8497,Wind,2019
+Soc Trang Baggasse,6,,,Biomass,
+Son Dong,220,21.1793,106.78,Coal,2009
+Son La,2400,21.4971,103.996,Hydro,2012
+Son My 1,750,,,Gas,2026
+Son My 1,750,,,Gas,2027
+Son My 1,750,,,Gas,2028
+Son My 2,750,,,Gas,2023
+Son My 2,750,,,Gas,2024
+Son My 2,750,,,Gas,2025
+Son Tay,18,15.0211,108.3838,Hydro,2014
+Song Ba Ha,220,13.0226,108.9039,Hydro,2008
+Song Bac,42,22.4175,104.7164,Hydro,2013
+Song Bung 2,100,15.414,107.24,Hydro,2014
+Song Bung 4,156,15.7258,107.6512,Hydro,2015
+Song Bung 4A,49,15.7353,107.6689,Hydro,2012
+Song Bung 5,57,15.808,107.745,Hydro,2013
+Song Bung 6,29,15.813,107.758,Hydro,2012
+Song Chay 5,16,22.7111,104.5292,Hydro,2012
+Song Cho 2,7,12.3319,108.9247,Hydro,2014
+Song Chung,19.5,22.4278,104.6347,Hydro,2011
+Song Con 2,63,15.8875,107.83,Hydro,2009
+Song Giang 2,37,12.3729,108.8374,Hydro,2014
+Song Hau 1,1200,9.95266,105.86071,Coal,2019
+Song Hau 2,1000,,,Coal,2021
+Song Hau 2,1000,,,Coal,2022
+Song Hinh,70,12.9281,108.9936,Hydro,2001
+Song Lo 6,44,22.1746,104.5502,Hydro,2018
+Song Luy,16,11.3978,108.6447,Hydro,2013
+Song Mien 5,20,22.9228,105.0042,Hydro,2012
+Song Muc,2,19.4832,105.4635,Hydro,2008
+Song Nhiem 3,10,23.0408,105.4042,Hydro,2012
+Song Ong,8.1,11.4456,108.492,Hydro,2011
+Song Pha,7.5,11.8331,108.6841,Hydro,1995
+Song Quang,12,19.36,104.47,Hydro,2011
+Song Rieng,3.75,,,Hydro,2012
+Song Tranh 2,190,15.3312,108.1478,Hydro,2010
+Song Tranh 3,62,15.4389,108.135,Hydro,2013
+Song Tranh 4,48,15.5266,108.1483,Hydro,2014
+Srepok 3,220,12.7524,107.8768,Hydro,2009
+Srepok 4,80,12.808,107.8558,Hydro,2010
+Srepok 4A,64,12.867,107.772,Hydro,2013
+Srok Phu Mieng,51,11.7689,106.7564,Hydro,2006
+Su Pan 2,34,22.2928,103.9117,Hydro,2011
+Sung Vui,18,22.4344,103.821,Hydro,2013
+Suoi Choang,4,19.0719,104.7451,Hydro,2013
+Suoi Lum 1,20,21.3872,104.2263,Hydro,2013
+Suoi Sap 3,14,21.2,104.5,Hydro,2011
+Suoi Tan,5.5,20.5,104.5,Hydro,2009
+Suoi Trang,2.7,20.7192,105.2775,Hydro,2012
+Suoi Vang (Ankroet),3.1,11.9921,108.3708,Hydro,1945
+Ta Co,30,20.9965,103.6469,Hydro,2013
+Ta Loi 2,10.5,22.5027,103.6802,Hydro,2014
+Ta Loi 3,7.5,22.4894,103.6708,Hydro,2012
+Ta Niet,3.6,20.8944,104.5229,Hydro,2014
+Ta Thang,60,22.2987,104.0221,Hydro,2013
+Ta Trach,21,16.3164,107.6374,Hydro,2013
+Ta Vi,3,15.2624,108.1466,Hydro,2011
+Tan Phuoc 1,600,,,Coal,2027
+Tan Phuoc 1,600,,,Coal,2028
+Tan Phuoc 2,600,,,Coal,2028
+Tan Phuoc 2,600,,,Coal,2029
+Thac Ba,120,21.7471,105.0233,Hydro,1971
+Thac Mo,150,11.8578,107.0193,Hydro,1995
+Thac Mo Extension,75,11.8578,107.0193,Hydro,2017
+Thac Trang,6,21.458,103.0782,Hydro,2006
+Thac Xang,20,22.1728,106.497,Hydro,2013
+Thai An,82,22.9917,105.0667,Hydro,2010
+Thai Binh 1,600,20.481,106.5605,Coal,2017
+Thai Binh 2,600,20.4828445,106.563262,Coal,2017
+Thai Binh 2,600,20.4828445,106.563262,Coal,2018
+Thang Long,620,21.02184,107.04815,Coal,2018
+Thanh Thuy,18,22.9186,104.8597,Hydro,2011
+Thien Nam,19.6,22.2775,103.6522,Hydro,2015
+Thien Tan 1,300,11.6825,108.9619,Solar,2019
+Thien Tan 2,400,,,Solar,2020
+Thien Tan 3,300,,,Solar,2021
+Thoong Cot 2,3.5,22.8297,106.6189,Hydro,2013
+Thu Duc,279,10.8284,106.76,Oil,1965
+Thuan Hoa,38,22.5739,105.02,Hydro,2017
+Thuan Nhien Phong,32,11.0525,108.41,Wind,2017
+Thuong An,2.4,22.5041,105.9936,Hydro,2008
+Thuong KonTum,220,14.6941,108.2299,Hydro,2014
+Tien Thuan,10,14.0003,108.8267,Hydro,2014
+To Buong,8,20.9472,104.4158,Hydro,2013
+Tra Khuc 1,36,15.0124,108.5255,Hydro,2017
+Tra Linh 3,7.2,15.0325,108.0525,Hydro,2010
+Tra Xom,20,14.2858,108.7277,Hydro,2013
+Tram Tau,30,21.5031,104.44,Hydro,2014
+Tri An,400,11.1048,106.9848,Hydro,1991
+Tri An Extension,200,,,Hydro,2025
+Trung Ho & Van Ho,12.9,22.4417,103.8639,Hydro,2012
+Trung Nam,90,11.6856,109.0289,Wind,2019
+Trung Son,260,20.3333,105,Hydro,2017
+Tuy Phong,30,11.2122,108.2,Wind,2009
+Tuyen Quang,342,22.36,105.3985,Hydro,2008
+Uong Bi,105,,,Coal,2021
+Uong Bi Extension,630,21.0398,106.78,Coal,2014
+Van Chan,57,21.6806,104.5403,Hydro,2012
+Van Phong,6,,,Hydro,2015
+Van Phong 1,660,,,Coal,2022
+Van Phong 1,660,,,Coal,2023
+Ve Dan,60,,,Coal,2016
+Vedan,72,10.66075,107.02451,Oil,2015
+Vinh Son,66,14.3656,108.6943,Hydro,2001
+Vinh Son 3,30,14.4022,108.6944,Hydro,2014
+Vinh Son 5,28,14.3197,108.7519,Hydro,2014
+Vinh Tan 1,1200,11.317,108.81,Coal,2019
+Vinh Tan 2,1245.6,11.317,108.81,Coal,2014
+Vinh Tan 3,1320,,,Coal,2023
+Vinh Tan 3,660,,,Coal,2022
+Vinh Tan 4,1200,11.317,108.81,Coal,2018
+Vinh Tan 4 Extension,600,11.317,108.81,Coal,2019
+Vung Ang 1,1200,18.0979,106.38,Coal,2015
+Vung Ang 2,600,,,Coal,2021
+Vung Ang 2,600,,,Coal,2022
+Vung Ang 3,600,,,Coal,2024
+Vung Ang 3,600,,,Coal,2025
+Vung Ang 3,600,,,Coal,2029
+Vung Ang 3,600,,,Coal,2030
+Xim Vang 2,18,21.2555,104.3203,Hydro,2013
+Xoong Con,15,19.2061,104.4375,Hydro,2012
+Yan Tann Sien,19.5,12.2144,108.4367,Hydro,2012
+Yang Trung,0.11,,,Hydro,
+Yen Son,70,21.5949,105.1258,Hydro,2017
+Za Hung,30,15.859,107.653,Hydro,2012
